@@ -1,0 +1,12 @@
+.table{
+  font-family: 'David Libre', serif;
+}
+.bold{
+  font-weight: bold;
+}
+.not-bold{
+  font-weight: normal;
+}
+#topic{
+  font-family: 'Rubik', sans-serif;
+}
